@@ -32,7 +32,9 @@ figcaption {
 
 /*////////// BACKGROUNDS //////////*/
 
-
+.shadow{
+  box-shadow: 0 3px;
+}
 
 /*/////// MEDIA ////////*/
 
