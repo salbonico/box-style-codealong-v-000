@@ -28,7 +28,10 @@ figcaption {
   text-shadow: 0 2px 3px #000;
 }
 
-
+.border-right{
+  border-right:1px dotted #ccc;
+  padding-right: 30px
+}
 
 /*////////// BACKGROUNDS //////////*/
 
